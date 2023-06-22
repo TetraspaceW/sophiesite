@@ -1,7 +1,7 @@
 {
   "name": "reactest",
   "version": "0.1.0",
-  "homepage": "https://ocaelia.thetetra.space",
+  "homepage": "https://ocaelia.thetetra.space/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
